@@ -1,0 +1,29 @@
+{
+  "name": "fullstackclub-curso-nodejs",
+  "version": "1.0.0",
+  "description": "Curso de Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "start-dev.cmd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinicius0013/fullstackclub-curso-nodejs.git"
+  },
+  "author": "Vinicius Augusto Benedito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vinicius0013/fullstackclub-curso-nodejs/issues"
+  },
+  "homepage": "https://github.com/Vinicius0013/fullstackclub-curso-nodejs#readme",
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "ejs": "^4.0.1",
+    "express": "^5.1.0",
+    "mongoose": "^9.1.5"
+  }
+}
